@@ -17,5 +17,5 @@ module.exports = Dinner;
 });
 
 Dinner.addOwner( Mauro );
-Dinner.addOwner( Malek );
+Dinner.addGuest( Malek);
 module.exports = Dinner;
